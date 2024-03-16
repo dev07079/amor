@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page de Amor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            text-align: center;
+        }
+        header {
+            background-color: #ff4d4d;
+            color: #fff;
+            padding: 20px;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #ff4d4d;
+            color: #fff;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .quote {
+            font-style: italic;
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Para o Amor da Minha Vida</h1>
+</header>
+
+<section>
+    <p>Querida [Nome da Namorada],</p>
+    <p>Quero dedicar algumas palavras para expressar o quanto você significa para mim. Você é a luz que ilumina meus dias, o sorriso que aquece meu coração e a inspiração por trás de todos os meus sonhos.</p>
+    <p>Com você ao meu lado, sinto-me completo e feliz. Seu amor me faz uma pessoa melhor e me dá forças para enfrentar qualquer desafio.</p>
+    <p>Eu amo cada momento que passamos juntos e mal posso esperar para construir um futuro ainda mais bonito ao seu lado.</p>
+    <p>Obrigado por ser você e por fazer parte da minha vida. Te amo mais do que palavras podem expressar.</p>
+    <p>Com todo o meu amor,</p>
+    <p>[Seu Nome]</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Landing Page de Amor</p>
+</footer>
+
+</body>
+</html>
